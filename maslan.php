@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Hello_Maslan
- * @version 1.6
+ * @version 1.0
  */
 /*
 Plugin Name: Hello Maslan
